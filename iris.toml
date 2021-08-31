@@ -1,0 +1,5 @@
+appversion = "v1.1.1"
+chain-id = "irishub-1"
+upgrade-halt-height = ""
+hash-genesis = ""
+seeds = "a17d7923293203c64ba75723db4d5f28e642f469@seed-2.mainnet.irisnet.org:26656,ebfb43ca1b592b5f8a1faf3e2aa1a34e8e1099cc@iris01.dokia.cloud:26656,fdc0406afdd3acc63f74f5439e09104f663a7c1f@44.241.177.178:26656,92fadc989ed29aee0d46afce3226f8565d1f36cb@144.91.116.17:46656"
