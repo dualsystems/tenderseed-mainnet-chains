@@ -1,0 +1,5 @@
+appversion = "v0.15.0"
+chain-id = "kava-8"
+upgrade-halt-height = "1878508"
+hash-genesis = "f0c90f0cbf96d230a83cd2309b8fd032e52d7fb933881541472df1bf2703a939"
+seeds = ""
