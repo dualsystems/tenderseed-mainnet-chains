@@ -1,6 +1,6 @@
 appversion = "v0.15.0"
 chain-id = "kava-8"
-upgrade-start-height = "1878508"
+upgrade-start-height = "1878509"
 hash-genesis = "f0c90f0cbf96d230a83cd2309b8fd032e52d7fb933881541472df1bf2703a939"
 genesis = "https://kava-genesis-files.s3.amazonaws.com/kava-8-genesis-migrated-from-block-1878508.json"
 seeds = ""
